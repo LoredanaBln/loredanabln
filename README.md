@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loredana</h1>
-<h3 align="center">🎓 Computer Science Student at TUCN | 💻 Junior Java Software Engineer at LSGE-TORA</h3>
+<h3 align="center">🎓 Computer Science Student at TUCN | 💻 Junior Java Software Engineer at LSEG-TORA</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=loredanabln&label=Profile%20views&color=0e75b6&style=flat" alt="loredanabln" />
 </p>
